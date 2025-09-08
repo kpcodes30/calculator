@@ -34,6 +34,7 @@ body {
   background-color: #f7fcfa;
   font-size: 1.5em;
   box-sizing: border-box;
+  color: #44d7a8;
 }
 .buttons {
   display: grid;
