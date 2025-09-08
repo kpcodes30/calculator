@@ -24,7 +24,7 @@ body {
   flex-direction: column;
   align-items: center;
 }
-.result-panel {
+.display-panel {
   border: 2px solid #44d7a8;
   padding: 15px 20px;
   width: 200px;
